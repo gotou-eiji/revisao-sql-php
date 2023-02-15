@@ -3,7 +3,7 @@
 require_once("verifica_sessao.php");
 
 $hostname = "localhost";
-$database = "exercicios_sql_segunda_lista";
+$database = "sistema_venda";
 $nome_usuario = "root";
 $senha = "";
 

@@ -17,8 +17,8 @@ echo "Bem Vindo ".$_SESSION["usuario_logado"];
 <ul>
     <li><a href="form_cliente.php">Cadastrar Cliente</a></li>
     <li><a href="listar_cliente.php">Listar Cliente</a></li>
-    <li><a href=""></a></li>
-    <li><a href=""></a></li>
+    <li><a href="form_pessoa_fisica.php">Cadastar Pessoa Física</a></li>
+    <li><a href="form_pessoa_juridica.php">Cadastrar Pessoa Jurídica</a></li>
     <li><a href=""></a></li>
 </ul>
 </body>
